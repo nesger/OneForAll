@@ -1,12 +1,4 @@
 # OneForAll
 
-
-### 开源协议
-可以用下图来理解：
-![开源协议](./free_software_licenses.png)
-
-[参考](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
-
-
-### 工具类网站
-[免费在线作图，实时协作](https://www.processon.com/)
+[协议相关](./protocol/protocol.md)
+[工具相关](./tools/tools.md)
